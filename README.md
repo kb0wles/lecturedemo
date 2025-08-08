@@ -7,3 +7,4 @@
 - Chris
 - Kaleb Lemens
 - Kathryn Bowles
+- Chris Chapman
