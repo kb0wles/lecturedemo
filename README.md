@@ -1,5 +1,6 @@
 # lecturedemo
 
 Kaleb Lemens,
-Marcos Hernandez Lopez
-Gabriel Alicea
+Marcos Hernandez Lopez,
+Gabriel Alicea,
+Jose Vazquez,
