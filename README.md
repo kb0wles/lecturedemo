@@ -5,3 +5,5 @@
 - Gabriel Alicea
 - Jose Vazquez
 - Chris
+- Kaleb Lemens
+- Kathryn Bowles
