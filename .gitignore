@@ -8,3 +8,6 @@
 /.vs/lecturedemo/FileContentIndex
 /.vs/lecturedemo/v17
 *.json
+.vs
+x64
+Debug
